@@ -1,3 +1,3 @@
-###FOCUS
+### FOCUS
 
-##Programa para auxílio nos estudos usando método pomodoro.
+## Programa para auxílio nos estudos usando método pomodoro.
